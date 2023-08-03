@@ -1,2 +1,2 @@
-# automatic-water-conterller
-automatic water conterller
+# automatic-water-controller
+automatic water controller
